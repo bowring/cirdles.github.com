@@ -404,8 +404,8 @@
   status: current
   image_url: /assets/images/NOAHDRAKE.png
   position: Undergraduate Research Assistant
-  email: drakene@g.cofc.edu 
-  blog:
+  email: drakene@g.cofc.edu
+  blog: https://noahdrakecsjournal.wordpress.com/
 
 - name: Jonari Ward
   date: 2019-05-06 00:00:00
@@ -445,7 +445,7 @@
   image_url: /assets/images/RobertNiggebrugge.jpg
   position: Undergraduate Reasearch Assistant
   email: niggebruggere@g.cofc.edu
-  blog: 
+  blog:
 
 - name: Daniel Halley
   date: 2019-10-15 00:00:00
